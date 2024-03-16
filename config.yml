@@ -9,10 +9,6 @@ enableRobotsTXT: true
 taxonomies:
     tag: tags
 
-menu:
-    main:
-
-
 params:
     description: "I am a Professor of Subject at the University of Place. My research covers various topics.
 consequat."
