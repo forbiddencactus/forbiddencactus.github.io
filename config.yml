@@ -36,7 +36,7 @@ consequat."
     profileMode:
           enabled: true
           title: Alex Griffin
-          subtitle: "I'm a game developer! I specialise in real time rendering and game engine development. I have an art and design background and thus really enjoy the intersection of art and engineering: I'm very passionate about rendering interesing looking games. I also enjoy general game engine development, gameplay programming, and game design. I'm very comfortable with low level 'on the metal' programming, DOD, and efficient, manual memory management techniques that keep the cache/hardware happy, and the program running smoothly."
+          subtitle: "I'm a game developer! I specialise in real time rendering and game engine development."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -49,6 +49,9 @@ consequat."
           url: https://github.com/forbiddencactus
         - name: Twitter
           url: https://twitter.com/forbiddencactus
+        - name: Instagram
+          url: https://www.instagram.com/forbiddencacti/
+
 
     assets:
         disableHLJS: true
