@@ -1,5 +1,5 @@
 baseURL: "https://forbiddencactus.github.io"
-title: Prof. Name
+title: Alex Griffin
 paginate: 20
 theme: PaperMod
 
@@ -11,23 +11,12 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
-          weight: 1
-        - name: Courses
-          url: courses/
-          weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+
 
 params:
     description: "I am a Professor of Subject at the University of Place. My research covers various topics.
 consequat."
-    author: Name
+    author: Alexis Griffin
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -50,25 +39,13 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: Alex Griffin
+          subtitle: "I'm a game developer and designer! I specialise in topics like graphics programming and rendering pipelines, general game engine development, and gameplay programming. I'm very comfortable with low level 'on the metal' programming, DOD, and efficient, manual memory management techniques that keep the cache/hardware happy, and the program running smoothly."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Alexis Griffin
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
     socialIcons:
         - name: CV
           url: cv.pdf
